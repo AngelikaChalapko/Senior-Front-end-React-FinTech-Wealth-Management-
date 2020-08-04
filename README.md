@@ -15,13 +15,13 @@ Senior React Developer. FinTech. Robo-advice wealth management platform. Full-st
 - Working with us you will gain strong knowledge in wealth management, portfolio management, financial goal-based planning, brokerage and other financial things
 
 ## Technical Skills:
--  At least 5 years of JavaScript software development experience
--  Strong experience developing React
--  Upper-Intermediate English
+-  At least 5 year of JavaScript software development experience
+-  Strong experience with modern React (hooks, styled components, redux, redux-saga, effector)
+-  Bachelors or Masters in computer science or related technical field
 -  Experience using services with an emphasis on REST services and message-based
 architecture
--  Strong experience with Graphql and other API mechanisms
--  Experience with JQuery
+-  Strong experience with REST and other API mechanisms
+-  Experience with JQuery/native JS
 -  Experience developing hosted client-server applications
 -  Strong object-oriented design skills and producing well-engineered design
 -  Experience with developing applications for authorization and authentication
@@ -31,38 +31,26 @@ tools
 -  Ability to provide short tactical and long term strategic solutions and provide the risks
 associated with each
 -  Experience with configuration management
+-  Experience with unit/integration/functional/component tests (jest, enzyme)
 
 
 ## Bonus Skills:
 
-- Postgres experience
-- Experience developing in PHP, Java, C#, .NET
-- Experience with Angular
-- SQL experience
 - Experience with continuous integration and deployment
 - Experience working with Jira and Confluence
-- Experience with unit tests and test-driven development
-- Experience with financial services or brokerage industry 
+- Experience with financial services or brokerage industry
 - Strong familiarity with best practices around logging, monitoring, and self-healing applications
-- Bachelors or Masters in computer science or related technical field
-
 
 ## Responsibilities:
 
-- Dive into code to assist the team with difficult issues and guidance
-- Designing and implementing simple, maintainable, and performant technical solutions
-- Lead the team to design and develop modules required to meet objectives
-- Mentor staff on technical skills
-- Work with product management to completely understand desired deliverables and set the plan
+-  Dive into code to assist the team with difficult issues and guidance
+-  Designing and implementing simple, maintainable, and performant technical solutions
+-  Mentor staff on technical skills
+-  Work with product management to completely understand desired deliverables and set the plan
 for how the team will deliver the solution
-- Participate in the agile development process, reporting up to the local Project Manager and
-client’s React Team Lead on team status and ensuring all agile processes within the team are
-being followed.
-- Ensure that all technical processes are being followed for code development, testing, and
+-  Ensure that all technical processes are being followed for code development, testing, and
 deployment
-- Some after-hours work may be required for deployments and third tier support
-- Bachelors or Masters in computer science or related technical field
-
+-  Some after hours work may be required for deployments and third tier support
 
 ## Technology Stack Used:
 - Microservices-based architecture
